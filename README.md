@@ -3,7 +3,7 @@
 ##### Tableau Analysis: https://public.tableau.com/views/CitiBikeAnalysis_16000362918540/CitiBikeAnalysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 
-!(img/Geo_station.png)
+![Stations](img/Geo_station.png)
 ## Location of Final Destination:
 ### In this Dataset, the majority of the final destination spot of most citi bike trips in 2019 were in Manhatten. Sesifically the most travelled to destination was Pershing squre north. This is due to the Grand Central station that is no more than a block away. 
 
