@@ -6,9 +6,11 @@
 #### In this project, I assumed the role of an analyst for the Citi Bike program of New York city. My task was to glean insights into the 2019 transit patterns of each bike and user analysis utilizing Tableau. The data was extracted from the Citi Bike open data source (https://www.citibikenyc.com/system-data). 
 
 ## Bike Transit Patterns:
-### Through my analysis, most of the final destination spot of most citi bike trips in 2019 were in Manhattan. Specifically, the most travelled to destination was Pershing Square north. This is due to the Grand Central station that is no more than a block away. 
+### Through my analysis, discoveries were made showing that most bikes were used to travel to destinations in Manhattan considerably more than any other burrow of New York in 2019. This is due to the several iconic destinations of Manhattan which these stations are located near.  This can be exemplified by the top three most travelled to station. First the most travelled to station was Pershing Square north which is located just a block from the iconic Grand Central station. There could be a correlation between train and bike users. The next most travelled to station is located at E 17th and Broadway which is near the historic Union Square. Lastly, the third most travelled to station is Broadway and E 22nd St which is near Madison Square Park. These three iconic destinations draw Citi Bike users. Utilizing this information Citi Bike could gain more revenue through in app advertising for businesses in areas with heavy station traffic. 
 
+### Destination Station Heat Map:
 ![Stations](img/Geo_station.PNG)
+### Station Analysis:
 ![Stations](img/avg_trip.PNG)
 
 ## User Analysis:
